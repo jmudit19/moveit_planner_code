@@ -15,4 +15,5 @@ To change the planner to OMPL: open demo.launch in text editor, go to line numbe
 `<arg name="planner" value="ompl" />`
 
 Planning and execution can be done using Moveit on Rviz.
-Thank You
+Results of various planners on the basis of time and computational efforts can be found in cool.pdf.
+Thank You.
